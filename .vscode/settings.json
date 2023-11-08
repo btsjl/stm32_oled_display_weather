@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "string_view": "cpp",
+        "typeinfo": "cpp"
+    },
+    "commentTranslate.source": "Bing",
+    "C_Cpp.errorSquiggles": "disabled"
+}

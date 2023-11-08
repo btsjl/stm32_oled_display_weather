@@ -1,0 +1,61 @@
+{
+    "data": {
+        "day": {
+            "time": "25日白天",
+            "sunUp": "日出 06:30",
+            "wind": "无持续风向",
+            "weather_pic": "d07",
+            "temperature": "23",
+            "wind_pow": "<3级",
+            "weather": "小雨"
+        },
+        "night": {
+            "time": "24日夜间",
+            "sunDown": "日落 17:43",
+            "wind": "无持续风向",
+            "weather_pic": "n00",
+            "temperature": "16",
+            "wind_pow": "<3级",
+            "weather": "晴"
+        },
+        "cityInfo": {
+            "areaCn": "武汉",
+            "nationCn": "中国",
+            "areaId": "101200101",
+            "areaCode": "420100",
+            "nationEn": "china",
+            "cityEn": "wuhan",
+            "provCn": "湖北",
+            "provEn": "hubei",
+            "areaEn": "wuhan",
+            "cityCn": "武汉"
+        },
+        "now": {
+            "WD": "北风",
+            "qy": "1013",
+            "rain24h": "0",
+            "SD": "70%",
+            "njd": "10km",
+            "rain": "0",
+            "wde": "N",
+            "sd": "70%",
+            "wse": "11km\/h",
+            "tempf": "70.3",
+            "aqi": "63",
+            "date": "10月24日(星期二)",
+            "cityname": "武汉",
+            "aqi_pm25": "63",
+            "weathercode": "d01",
+            "WS": "2级",
+            "temp": "21.3",
+            "city": "101200101",
+            "weathere": "Cloudy",
+            "weather": "多云",
+            "limitnumber": "单号限行",
+            "nameen": "wuhan",
+            "time": "18:25"
+        }
+    },
+    "desc": "成功",
+    "code": "0"
+}
